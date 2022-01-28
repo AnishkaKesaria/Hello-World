@@ -1,0 +1,25 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+
+.navbar{
+    background: #db195e;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.alert{
+  display: none;
+}
+
+.color{
+  color:#db195e;
+}
+
